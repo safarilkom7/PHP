@@ -1,0 +1,13 @@
+materi sandika galih
+
+1. pendahuluan
+2. membuat class
+3. membuat function/method dalam class
+4. instantisasi object
+5. setting  properties
+6. menjalankan method
+7. mengakses method
+8. modularitas
+9. contructor
+10. encapsulation
+11. inheritance

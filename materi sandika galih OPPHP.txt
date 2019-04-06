@@ -1,0 +1,17 @@
+materi sandika galih
+
+1. pendahuluan
+2. class dan object
+3. property dan method
+4. constructor
+5. object type
+6. inheritance
+7. overriding
+8. visibility
+9. Setter dan Getter
+10. statis keyboard
+11. constant
+12. abstract class
+13. interface
+14. autoloading
+15. NameSpace

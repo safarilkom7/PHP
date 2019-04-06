@@ -1,0 +1,5 @@
+1.membuat index pada basic
+   cari di github 
+   (ilopX/yii2-basic-htaccess)
+2.membuat index pada advanced 
+   (https://devreadwrite.com/posts/htaccess-for-yii-2-advanced)
